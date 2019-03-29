@@ -1,11 +1,3 @@
-node_modules/
-test/
-src/
-.vscode/
-.idea/
-.gitignore
-.npmignore
-gulpfile.js
-package-lock.json
-package.json
-.DS_Store
+!dist/
+!LICENSE
+!README.md
