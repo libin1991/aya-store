@@ -84,7 +84,7 @@ Page(store.link(IndexStore, {
 ```
 
 ## 四、详细文档和APIs
-
+[文档 documents](https://github.com/milobluebell/aya-store/blob/master/document/README.md)
 
 ## 五、使用案例 example：
 * 小程序脚手架：[mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli)
