@@ -1,3 +1,5 @@
+# aya-store
+
 
 ## 一、**使用前**  Before Using：
 在微信小程序的根目录下，输入
@@ -92,3 +94,11 @@ Page(store.link(IndexStore, {
 * 小程序：Artifactory
   
 * waiting for more...
+
+
+## 六、协议 Licenses
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/milobluebell/mina-gulp-cli/blob/master/LICENSE)
